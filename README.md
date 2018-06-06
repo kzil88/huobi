@@ -8,3 +8,4 @@ uploaded BTC_Bot3_BackTest.py
 uploaded CoordinateDescent.py
 uploaded DC.py
 uploaded EOS_Bot_BackTest.py
+uploaded Init_All_Min.py
