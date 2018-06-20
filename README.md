@@ -12,3 +12,4 @@ uploaded Init_All_Min.py
 uploaded Init_Btc_1min.py
 uploaded Init_Btc_day.py
 uploaded Init_EOS_1min.py
+uploaded MIX_Bot.py
