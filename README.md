@@ -15,3 +15,4 @@ uploaded Init_EOS_1min.py
 uploaded MIX_Bot.py
 uploaded MIX_Bot_BackTest.py
 uploaded MIX_Bot2.py
+uploaded MIX_Bot2_ShortLine.py
