@@ -20,3 +20,4 @@ uploaded MIX_Bot3.py
 uploaded Model_SVM.py
 uploaded My_CAP.py
 uploaded My_CAP_MIX.py
+uploaded Operator.py
