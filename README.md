@@ -24,3 +24,4 @@ uploaded Operator.py
 uploaded Operator_MIX.py
 uploaded Show_OnLine.py
 uploaded Show_Wave.py
+uploaded Show_Wave_Single.py
