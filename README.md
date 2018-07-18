@@ -30,3 +30,4 @@ uploaded MIX_Bot4.py
 uploaded MIX_Bot5.py
 uploaded MIX_Bot5_BackTest.py
 uploaded Show_Compare.py
+uploaded Show_Compare_Local.py
